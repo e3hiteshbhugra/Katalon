@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetCapitalAndCurrency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>944be5f2-04f3-42b9-aa9b-9729c9460b8a</testCaseGuid>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>f4f949b1-a5cc-4d3c-a65f-25cd60ca4ab5</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>0e60d480-f3dc-4c93-b26d-958a789669f0</id>
+      <masked>false</masked>
+      <name>countryCapital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>0ff8c18b-c2c2-4400-af60-6702f9e4cf64</id>
+      <masked>false</masked>
+      <name>countryCurrency</name>
+   </variable>
+</TestCaseEntity>

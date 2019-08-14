@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency - Iteration 1","testCaseId":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency","bindedValues":{"countryCode":"IN","countryCurrency":" Rupees","countryCapital":" New Delhi"}}
+{"testCaseName":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency - Iteration 2","testCaseId":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency","bindedValues":{"countryCode":"US","countryCurrency":" Dollars","countryCapital":" Washington"}}
+{"testCaseName":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency - Iteration 3","testCaseId":"Test Cases/CountryInfoSoapService/TC_GetCapitalAndCurrency","bindedValues":{"countryCode":"VN","countryCurrency":" Dong","countryCapital":" Hanoi"}}
